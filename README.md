@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/MrMannye/Advice-generator-app.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://advice-generator-app-ten-sigma.vercel.app/)
 
 ## My process
 
@@ -69,8 +69,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://portafolio-miguel.vercel.app/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MrMannye)
 
 
